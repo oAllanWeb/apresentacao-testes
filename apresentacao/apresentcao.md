@@ -147,7 +147,7 @@ test('Renderiza MeuComponente corretamente', () => {
 
 # **Bora por a mão na massa**
 
-[Link para projeto no git]
+https://github.com/oAllanWeb/apresentacao-testes
 
 ---
 
